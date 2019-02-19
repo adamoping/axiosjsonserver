@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "vue-router",
+      "author": "ajax"
+    },
+    {
+      "id": 3,
+      "title": "vue-loader",
+      "author": "liuliu"
+    },
+    {
+      "id": 4,
+      "title": "axios",
+      "author": "jiujiu"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "user": "slfj",
+    "pass": 654
+  },
+  "users": [
+    {
+      "id": 1,
+      "user": "admin",
+      "password": 123456
+    },
+    {
+      "id": 2,
+      "user": "ada",
+      "password": 123456
+    },
+    {
+      "id": "3",
+      "user": "liu",
+      "password": "111"
+    },
+    {
+      "id": "4",
+      "user": "hu66",
+      "password": "222"
+    },
+    {
+      "user": "zhnegshuang",
+      "password": "abc",
+      "id": "5"
+    },
+    {
+      "user": "nini",
+      "password": "abc",
+      "id": "6"
+    },
+    {
+      "user": "nini",
+      "password": "abc",
+      "id": "hpKBRu3"
+    },
+    {
+      "user": "nini",
+      "password": "abc",
+      "id": "UGGT8bW"
+    },{
+      "id":8,
+      "user":"moping",
+      "password":123456
+    }
+  ]
+}
